@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def quote(fighter)
   case fighter.downcase
   when 'george saint pierre'
